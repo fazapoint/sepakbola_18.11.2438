@@ -2,16 +2,16 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/bnv_matches"
-        android:icon="@drawable/ic_trophy"
+        android:icon="@drawable/ic_pertandingan"
         android:title="@string/title_matches" />
 
     <item
         android:id="@+id/bnv_teams"
-        android:icon="@drawable/ic_football"
+        android:icon="@drawable/ic_tim"
         android:title="@string/title_teams" />
 
     <item
         android:id="@+id/bnv_favorites"
-        android:icon="@drawable/ic_star"
+        android:icon="@drawable/ic_favorit"
         android:title="@string/title_favorites" />
 </menu>
